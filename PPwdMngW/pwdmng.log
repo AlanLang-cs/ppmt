@@ -1,0 +1,1402 @@
+2024-12-15 13:13:48|Message:
+10
+
+2024-12-15 13:13:48|Message:
+银行卡
+
+2024-12-15 13:13:48|Message:
+20
+
+2024-12-15 13:13:48|Message:
+网站/APP
+
+2024-12-15 13:13:48|Message:
+30
+
+2024-12-15 13:13:48|Message:
+其他
+
+2024-12-15 13:13:48|Message:
+Enter function[AccFileRead], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:13:48|Message:
+End of function[AccFileRead], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:13:48|Message:
+[Encrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+00FF785500FF8066
+2024-12-15 13:13:48|Message:
+[Encrypt] key PC1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:13:48|Message:
+[Encrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:13:48|Message:
+[Encrypt] in 1 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+00FF8066A13AC81E
+2024-12-15 13:13:48|Message:
+[Encrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:13:48|Message:
+[Encrypt] in 2 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+A13AC81E635BD60E
+2024-12-15 13:13:48|Message:
+[Encrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:13:48|Message:
+[Encrypt] in 3 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+635BD60ECFB7BD6E
+2024-12-15 13:13:48|Message:
+[Encrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:13:48|Message:
+[Encrypt] in 4 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+CFB7BD6E89AB68BF
+2024-12-15 13:13:48|Message:
+[Encrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:13:48|Message:
+[Encrypt] in 5 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+89AB68BF7F73130E
+2024-12-15 13:13:48|Message:
+[Encrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:13:48|Message:
+[Encrypt] in 6 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7F73130EDC622E02
+2024-12-15 13:13:48|Message:
+[Encrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:13:48|Message:
+[Encrypt] in 7 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+DC622E02591A9AEE
+2024-12-15 13:13:48|Message:
+[Encrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:13:48|Message:
+[Encrypt] in 8 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+591A9AEEF09B60A1
+2024-12-15 13:13:48|Message:
+[Encrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:13:48|Message:
+[Encrypt] in 9 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F09B60A1E128816C
+2024-12-15 13:13:48|Message:
+[Encrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:13:48|Message:
+[Encrypt] in 10 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E128816CE4EEA145
+2024-12-15 13:13:48|Message:
+[Encrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:13:48|Message:
+[Encrypt] in 11 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E4EEA1458972F74E
+2024-12-15 13:13:48|Message:
+[Encrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:13:48|Message:
+[Encrypt] in 12 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+8972F74EF792B477
+2024-12-15 13:13:48|Message:
+[Encrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:13:48|Message:
+[Encrypt] in 13 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F792B4772ECE150A
+2024-12-15 13:13:48|Message:
+[Encrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:13:48|Message:
+[Encrypt] in 14 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2ECE150A9085C2F7
+2024-12-15 13:13:48|Message:
+[Encrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:13:48|Message:
+[Encrypt] in 15 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9085C2F7DB597516
+2024-12-15 13:13:48|Message:
+[Encrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:13:48|Message:
+[Encrypt] in 16 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1C606F3DDB597516
+2024-12-15 13:16:02|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+6FC8D3E2C7E7ECBA
+2024-12-15 13:16:02|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+79F95776C7E7ECBA
+2024-12-15 13:16:02|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:02|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C513A27579F95776
+2024-12-15 13:16:02|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:02|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+60601640C513A275
+2024-12-15 13:16:02|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:02|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C0DD62B160601640
+2024-12-15 13:16:02|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:02|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3500D5D2C0DD62B1
+2024-12-15 13:16:02|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+EB9A49893500D5D2
+2024-12-15 13:16:02|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:02|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D73B938BEB9A4989
+2024-12-15 13:16:02|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:02|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+09CAC3ACD73B938B
+2024-12-15 13:16:02|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:02|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+962CE5EC09CAC3AC
+2024-12-15 13:16:02|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:02|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+848256B9962CE5EC
+2024-12-15 13:16:02|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2474E016848256B9
+2024-12-15 13:16:02|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:02|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C19879A62474E016
+2024-12-15 13:16:02|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C946C9D6C19879A6
+2024-12-15 13:16:02|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:02|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B0CAF589C946C9D6
+2024-12-15 13:16:02|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:02|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F0058B0CAF589
+2024-12-15 13:16:02|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:02|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E411C43005F0058
+2024-12-15 13:16:02|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E411C43005F0058
+2024-12-15 13:16:02|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9E8A4768BB58F619
+2024-12-15 13:16:02|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+836FEE8ABB58F619
+2024-12-15 13:16:02|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:02|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D53FA8EC836FEE8A
+2024-12-15 13:16:02|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:02|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+454FE11CD53FA8EC
+2024-12-15 13:16:02|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:02|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+93DDD210454FE11C
+2024-12-15 13:16:02|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:02|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+565A2EFA93DDD210
+2024-12-15 13:16:02|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+83049B63565A2EFA
+2024-12-15 13:16:02|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:02|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C174802C83049B63
+2024-12-15 13:16:02|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:02|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2D7F7919C174802C
+2024-12-15 13:16:02|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:02|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+30F4AAD82D7F7919
+2024-12-15 13:16:02|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:02|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D62BAE5D30F4AAD8
+2024-12-15 13:16:02|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E076CC07D62BAE5D
+2024-12-15 13:16:02|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:02|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+699B238BE076CC07
+2024-12-15 13:16:02|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F5AEF9A4699B238B
+2024-12-15 13:16:02|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:02|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E6AE36D6F5AEF9A4
+2024-12-15 13:16:02|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:02|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+08101808E6AE36D6
+2024-12-15 13:16:02|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:02|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+180C003008101808
+2024-12-15 13:16:02|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+180C003008101808
+2024-12-15 13:16:02|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+578F29568ABEF59B
+2024-12-15 13:16:02|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+44397FA18ABEF59B
+2024-12-15 13:16:02|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:02|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+80CF3FEE44397FA1
+2024-12-15 13:16:02|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:02|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B386974980CF3FEE
+2024-12-15 13:16:02|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:02|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1BE414BBB3869749
+2024-12-15 13:16:02|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:02|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+6677F2F21BE414BB
+2024-12-15 13:16:02|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+81AA2C156677F2F2
+2024-12-15 13:16:02|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:02|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AF35445481AA2C15
+2024-12-15 13:16:02|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:02|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+94EF45C9AF354454
+2024-12-15 13:16:02|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:02|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+EFAA1F4A94EF45C9
+2024-12-15 13:16:02|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:02|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+120550A8EFAA1F4A
+2024-12-15 13:16:02|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:02|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E31D03A9120550A8
+2024-12-15 13:16:02|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:02|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0AEAB57AE31D03A9
+2024-12-15 13:16:02|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:02|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F358E74E0AEAB57A
+2024-12-15 13:16:02|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:02|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B5D9843AF358E74E
+2024-12-15 13:16:02|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:02|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+91109C15B5D9843A
+2024-12-15 13:16:02|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:02|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3B1E3D3C91109C15
+2024-12-15 13:16:02|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3B1E3D3C91109C15
+2024-12-15 13:16:04|Message:
+Enter function[AccFileWrite], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:16:04|Message:
+End of function[AccFileWrite], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:16:39|Message:
+[Encrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F0C5F005F104A
+2024-12-15 13:16:39|Message:
+[Encrypt] key PC1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:39|Message:
+[Encrypt] in 1 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F104A9CC2C595
+2024-12-15 13:16:39|Message:
+[Encrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:39|Message:
+[Encrypt] in 2 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9CC2C595492D465C
+2024-12-15 13:16:39|Message:
+[Encrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:39|Message:
+[Encrypt] in 3 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+492D465C67B2CB58
+2024-12-15 13:16:39|Message:
+[Encrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 4 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+67B2CB58F897E24C
+2024-12-15 13:16:39|Message:
+[Encrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:39|Message:
+[Encrypt] in 5 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F897E24C584B8893
+2024-12-15 13:16:39|Message:
+[Encrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 6 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+584B88937AB2C836
+2024-12-15 13:16:39|Message:
+[Encrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:39|Message:
+[Encrypt] in 7 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7AB2C83663C8C07C
+2024-12-15 13:16:39|Message:
+[Encrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:39|Message:
+[Encrypt] in 8 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+63C8C07CE1F7B279
+2024-12-15 13:16:39|Message:
+[Encrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:39|Message:
+[Encrypt] in 9 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E1F7B279E30CBE1D
+2024-12-15 13:16:39|Message:
+[Encrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:39|Message:
+[Encrypt] in 10 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E30CBE1D421A3444
+2024-12-15 13:16:39|Message:
+[Encrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 11 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+421A34449B507668
+2024-12-15 13:16:39|Message:
+[Encrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:39|Message:
+[Encrypt] in 12 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9B50766858FB894B
+2024-12-15 13:16:39|Message:
+[Encrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:39|Message:
+[Encrypt] in 13 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58FB894B2017E633
+2024-12-15 13:16:39|Message:
+[Encrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:39|Message:
+[Encrypt] in 14 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2017E633D7AEFDF8
+2024-12-15 13:16:39|Message:
+[Encrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:39|Message:
+[Encrypt] in 15 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D7AEFDF89DD3A70F
+2024-12-15 13:16:39|Message:
+[Encrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 16 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+92A2DB799DD3A70F
+2024-12-15 13:16:39|Message:
+[Encrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0000000000000000
+2024-12-15 13:16:39|Message:
+[Encrypt] key PC1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:39|Message:
+[Encrypt] in 1 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0000000080D8E82A
+2024-12-15 13:16:39|Message:
+[Encrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:39|Message:
+[Encrypt] in 2 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+80D8E82A0777049C
+2024-12-15 13:16:39|Message:
+[Encrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:39|Message:
+[Encrypt] in 3 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0777049C7AED65FE
+2024-12-15 13:16:39|Message:
+[Encrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 4 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7AED65FE54FA8C80
+2024-12-15 13:16:39|Message:
+[Encrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:39|Message:
+[Encrypt] in 5 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+54FA8C8079E72C87
+2024-12-15 13:16:39|Message:
+[Encrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 6 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+79E72C874120A58A
+2024-12-15 13:16:39|Message:
+[Encrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:39|Message:
+[Encrypt] in 7 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+4120A58AB2213F50
+2024-12-15 13:16:39|Message:
+[Encrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:39|Message:
+[Encrypt] in 8 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B2213F50778E2F09
+2024-12-15 13:16:39|Message:
+[Encrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:39|Message:
+[Encrypt] in 9 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+778E2F092CA1C514
+2024-12-15 13:16:39|Message:
+[Encrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:39|Message:
+[Encrypt] in 10 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2CA1C514C44CB936
+2024-12-15 13:16:39|Message:
+[Encrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 11 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C44CB93600368BB9
+2024-12-15 13:16:39|Message:
+[Encrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:39|Message:
+[Encrypt] in 12 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+00368BB931833776
+2024-12-15 13:16:39|Message:
+[Encrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:39|Message:
+[Encrypt] in 13 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+318337761A17EECD
+2024-12-15 13:16:39|Message:
+[Encrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:39|Message:
+[Encrypt] in 14 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1A17EECDC4FC0F5F
+2024-12-15 13:16:39|Message:
+[Encrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:39|Message:
+[Encrypt] in 15 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C4FC0F5FD1FA1687
+2024-12-15 13:16:39|Message:
+[Encrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 16 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+09073727D1FA1687
+2024-12-15 13:16:39|Message:
+[Encrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2C232B04A6012D23
+2024-12-15 13:16:39|Message:
+[Encrypt] key PC1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:39|Message:
+[Encrypt] in 1 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+A6012D23DCCB15E5
+2024-12-15 13:16:39|Message:
+[Encrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:39|Message:
+[Encrypt] in 2 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+DCCB15E5C490F8FF
+2024-12-15 13:16:39|Message:
+[Encrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:39|Message:
+[Encrypt] in 3 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C490F8FF8B4502D4
+2024-12-15 13:16:39|Message:
+[Encrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 4 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+8B4502D49EF6AE12
+2024-12-15 13:16:39|Message:
+[Encrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:39|Message:
+[Encrypt] in 5 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9EF6AE127A5A069B
+2024-12-15 13:16:39|Message:
+[Encrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 6 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7A5A069B526DDF3D
+2024-12-15 13:16:39|Message:
+[Encrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:39|Message:
+[Encrypt] in 7 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+526DDF3D78F459BB
+2024-12-15 13:16:39|Message:
+[Encrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:39|Message:
+[Encrypt] in 8 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+78F459BB7891C987
+2024-12-15 13:16:39|Message:
+[Encrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:39|Message:
+[Encrypt] in 9 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7891C987499135A6
+2024-12-15 13:16:39|Message:
+[Encrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:39|Message:
+[Encrypt] in 10 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+499135A646AB74E8
+2024-12-15 13:16:39|Message:
+[Encrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:39|Message:
+[Encrypt] in 11 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+46AB74E8BEB981F2
+2024-12-15 13:16:39|Message:
+[Encrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:39|Message:
+[Encrypt] in 12 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+BEB981F2F866D35C
+2024-12-15 13:16:39|Message:
+[Encrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:39|Message:
+[Encrypt] in 13 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F866D35C59A12F24
+2024-12-15 13:16:39|Message:
+[Encrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:39|Message:
+[Encrypt] in 14 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+59A12F240B644630
+2024-12-15 13:16:39|Message:
+[Encrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:39|Message:
+[Encrypt] in 15 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0B644630EBD7D504
+2024-12-15 13:16:39|Message:
+[Encrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:39|Message:
+[Encrypt] in 16 turn:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+841AEA79EBD7D504
+2024-12-15 13:16:45|Message:
+Enter function[AccFileWrite], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:16:45|Message:
+End of function[AccFileWrite], file name is F:\郎悦宁\ZZU\大一暑假\大学课设\MFC\demo\AlanAcc.dat
+
+
+2024-12-15 13:16:50|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+92A2DB799DD3A70F
+2024-12-15 13:16:50|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D7AEFDF89DD3A70F
+2024-12-15 13:16:50|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:50|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2017E633D7AEFDF8
+2024-12-15 13:16:50|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:50|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58FB894B2017E633
+2024-12-15 13:16:50|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:50|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9B50766858FB894B
+2024-12-15 13:16:50|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:50|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+421A34449B507668
+2024-12-15 13:16:50|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E30CBE1D421A3444
+2024-12-15 13:16:50|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:50|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E1F7B279E30CBE1D
+2024-12-15 13:16:50|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:50|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+63C8C07CE1F7B279
+2024-12-15 13:16:50|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:50|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7AB2C83663C8C07C
+2024-12-15 13:16:50|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:50|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+584B88937AB2C836
+2024-12-15 13:16:50|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F897E24C584B8893
+2024-12-15 13:16:50|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:50|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+67B2CB58F897E24C
+2024-12-15 13:16:50|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+492D465C67B2CB58
+2024-12-15 13:16:50|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:50|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9CC2C595492D465C
+2024-12-15 13:16:50|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:50|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F104A9CC2C595
+2024-12-15 13:16:50|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:50|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F0C5F005F104A
+2024-12-15 13:16:50|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+005F0C5F005F104A
+2024-12-15 13:16:50|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+09073727D1FA1687
+2024-12-15 13:16:50|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C4FC0F5FD1FA1687
+2024-12-15 13:16:50|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:50|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1A17EECDC4FC0F5F
+2024-12-15 13:16:50|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:50|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+318337761A17EECD
+2024-12-15 13:16:50|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:50|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+00368BB931833776
+2024-12-15 13:16:50|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:50|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C44CB93600368BB9
+2024-12-15 13:16:50|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2CA1C514C44CB936
+2024-12-15 13:16:50|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:50|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+778E2F092CA1C514
+2024-12-15 13:16:50|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:50|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B2213F50778E2F09
+2024-12-15 13:16:50|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:50|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+4120A58AB2213F50
+2024-12-15 13:16:50|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:50|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+79E72C874120A58A
+2024-12-15 13:16:50|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+54FA8C8079E72C87
+2024-12-15 13:16:50|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:50|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7AED65FE54FA8C80
+2024-12-15 13:16:50|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0777049C7AED65FE
+2024-12-15 13:16:50|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:50|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+80D8E82A0777049C
+2024-12-15 13:16:50|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:50|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0000000080D8E82A
+2024-12-15 13:16:50|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:50|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0000000000000000
+2024-12-15 13:16:50|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0000000000000000
+2024-12-15 13:16:50|Message:
+[Decrypt] Initial permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+841AEA79EBD7D504
+2024-12-15 13:16:50|Message:
+[Decrypt] key16:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+AC7987E37B3BBE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 16 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0B644630EBD7D504
+2024-12-15 13:16:50|Message:
+[Decrypt] key15:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+563CC3F1BD9DDF
+2024-12-15 13:16:50|Message:
+[Decrypt] in 15 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+59A12F240B644630
+2024-12-15 13:16:50|Message:
+[Decrypt] key14:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+D58F30FC6F6777
+2024-12-15 13:16:50|Message:
+[Decrypt] in 14 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F866D35C59A12F24
+2024-12-15 13:16:50|Message:
+[Decrypt] key13:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+F563CC3F1BD9DD
+2024-12-15 13:16:50|Message:
+[Decrypt] in 13 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+BEB981F2F866D35C
+2024-12-15 13:16:50|Message:
+[Decrypt] key12:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+FD58F307C6F677
+2024-12-15 13:16:50|Message:
+[Decrypt] in 12 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+46AB74E8BEB981F2
+2024-12-15 13:16:50|Message:
+[Decrypt] key11:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+3F563CCDF1BD9D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 11 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+499135A646AB74E8
+2024-12-15 13:16:50|Message:
+[Decrypt] key10:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+0FD58F377C6F67
+2024-12-15 13:16:50|Message:
+[Decrypt] in 10 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7891C987499135A6
+2024-12-15 13:16:50|Message:
+[Decrypt] key9:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C3F563CDDF1BD9
+2024-12-15 13:16:50|Message:
+[Decrypt] in 9 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+78F459BB7891C987
+2024-12-15 13:16:50|Message:
+[Decrypt] key8:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+61FAB1EEEF8DEC
+2024-12-15 13:16:50|Message:
+[Decrypt] in 8 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+526DDF3D78F459BB
+2024-12-15 13:16:50|Message:
+[Decrypt] key7:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+987EAC73BBE37B
+2024-12-15 13:16:50|Message:
+[Decrypt] in 7 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7A5A069B526DDF3D
+2024-12-15 13:16:50|Message:
+[Decrypt] key6:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+E61FAB1CEEF8DE
+2024-12-15 13:16:50|Message:
+[Decrypt] in 6 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+9EF6AE127A5A069B
+2024-12-15 13:16:50|Message:
+[Decrypt] key5:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+7987EACB3BBE37
+2024-12-15 13:16:50|Message:
+[Decrypt] in 5 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+8B4502D49EF6AE12
+2024-12-15 13:16:50|Message:
+[Decrypt] key4:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+1E61FABECEEF8D
+2024-12-15 13:16:50|Message:
+[Decrypt] in 4 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C490F8FF8B4502D4
+2024-12-15 13:16:50|Message:
+[Decrypt] key3:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+C7987EA7B3BBE3
+2024-12-15 13:16:50|Message:
+[Decrypt] in 3 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+DCCB15E5C490F8FF
+2024-12-15 13:16:50|Message:
+[Decrypt] key2:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+B1E61FADECEEF8
+2024-12-15 13:16:50|Message:
+[Decrypt] in 2 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+A6012D23DCCB15E5
+2024-12-15 13:16:50|Message:
+[Decrypt] key1:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+58F30FD6F6777C
+2024-12-15 13:16:50|Message:
+[Decrypt] in 1 turn, output:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2C232B04A6012D23
+2024-12-15 13:16:50|Message:
+inversed permutation:
+0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-
+2C232B04A6012D23
