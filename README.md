@@ -56,14 +56,15 @@
 
 ### 用户界面与数据处理流程
 
-详细见下图：
+详细参见：[https://blog.csdn.net/2301_80045957/article/details/146267061?spm=1011.2124.3001.6209](https://blog.csdn.net/2301_80045957/article/details/146267061?spm=1011.2124.3001.6209)]
 
 
 ### 加解密算法的选择与详解
 
 作为初学菜鸟，本次选用经典对称加密算法DES，采用模块化设计，未来可升级为更为高级的加密算法。
 
-详细参见文档：
+详细参见：
+[https://blog.csdn.net/2301_80045957/article/details/146267448?sharetype=blogdetail&sharerId=146267448&sharerefer=PC&sharesource=2301_80045957&spm=1011.2480.3001.8118](https://blog.csdn.net/2301_80045957/article/details/146267448?sharetype=blogdetail&sharerId=146267448&sharerefer=PC&sharesource=2301_80045957&spm=1011.2480.3001.8118)
 
 ---
 
